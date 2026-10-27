@@ -1,0 +1,13 @@
+line_id,plant_id,line_name
+LINE-001,PLT-001,Production Line 1
+LINE-002,PLT-002,Production Line 2
+LINE-003,PLT-003,Production Line 3
+LINE-004,PLT-001,Production Line 4
+LINE-005,PLT-002,Production Line 5
+LINE-006,PLT-003,Production Line 6
+LINE-007,PLT-001,Production Line 7
+LINE-008,PLT-002,Production Line 8
+LINE-009,PLT-003,Production Line 9
+LINE-010,PLT-001,Production Line 10
+LINE-011,PLT-002,Production Line 11
+LINE-012,PLT-003,Production Line 12

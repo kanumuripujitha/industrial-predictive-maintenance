@@ -1,0 +1,17 @@
+[
+  {
+    "plant_id":"PLT-001",
+    "plant_name":"Plant 1",
+    "status":"ACTIVE"
+  },
+  {
+    "plant_id":"PLT-002",
+    "plant_name":"Plant 2",
+    "status":"ACTIVE"
+  },
+  {
+    "plant_id":"PLT-003",
+    "plant_name":"Plant 3",
+    "status":"ACTIVE"
+  }
+]

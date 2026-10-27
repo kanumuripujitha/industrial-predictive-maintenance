@@ -1,0 +1,20 @@
+[
+  {
+    "shift_id":"SHIFT-001",
+    "shift_name":"DAY",
+    "start_hour":6,
+    "end_hour":14
+  },
+  {
+    "shift_id":"SHIFT-002",
+    "shift_name":"EVENING",
+    "start_hour":14,
+    "end_hour":22
+  },
+  {
+    "shift_id":"SHIFT-003",
+    "shift_name":"NIGHT",
+    "start_hour":22,
+    "end_hour":6
+  }
+]

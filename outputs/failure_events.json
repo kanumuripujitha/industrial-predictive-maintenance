@@ -1,0 +1,1002 @@
+[
+  {
+    "failure_event_id":"FAIL-0001",
+    "machine_id":"MCH-069",
+    "sensor_id":"SNS-0341",
+    "timestamp":"2026-03-03 04:00:00+00:00",
+    "failure_type":"OVERHEATING",
+    "severity":"HIGH",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0002",
+    "machine_id":"MCH-097",
+    "sensor_id":"SNS-0482",
+    "timestamp":"2026-02-19 06:00:00+00:00",
+    "failure_type":"EXCESSIVE_VIBRATION",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0003",
+    "machine_id":"MCH-043",
+    "sensor_id":"SNS-0213",
+    "timestamp":"2026-01-10 06:00:00+00:00",
+    "failure_type":"PRESSURE_ANOMALY",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0004",
+    "machine_id":"MCH-095",
+    "sensor_id":"SNS-0474",
+    "timestamp":"2026-02-10 07:00:00+00:00",
+    "failure_type":"ELECTRICAL_OVERLOAD",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0005",
+    "machine_id":"MCH-030",
+    "sensor_id":"SNS-0150",
+    "timestamp":"2026-01-02 11:00:00+00:00",
+    "failure_type":"SPEED_DEGRADATION",
+    "severity":"HIGH",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0006",
+    "machine_id":"MCH-054",
+    "sensor_id":"SNS-0266",
+    "timestamp":"2026-01-24 11:00:00+00:00",
+    "failure_type":"OVERHEATING",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0007",
+    "machine_id":"MCH-080",
+    "sensor_id":"SNS-0397",
+    "timestamp":"2026-02-04 22:00:00+00:00",
+    "failure_type":"EXCESSIVE_VIBRATION",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0008",
+    "machine_id":"MCH-006",
+    "sensor_id":"SNS-0028",
+    "timestamp":"2026-02-23 15:00:00+00:00",
+    "failure_type":"PRESSURE_ANOMALY",
+    "severity":"HIGH",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0009",
+    "machine_id":"MCH-083",
+    "sensor_id":"SNS-0414",
+    "timestamp":"2026-01-20 04:00:00+00:00",
+    "failure_type":"ELECTRICAL_OVERLOAD",
+    "severity":"HIGH",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0010",
+    "machine_id":"MCH-058",
+    "sensor_id":"SNS-0290",
+    "timestamp":"2026-02-04 00:00:00+00:00",
+    "failure_type":"SPEED_DEGRADATION",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0011",
+    "machine_id":"MCH-076",
+    "sensor_id":"SNS-0376",
+    "timestamp":"2026-03-29 17:00:00+00:00",
+    "failure_type":"OVERHEATING",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0012",
+    "machine_id":"MCH-073",
+    "sensor_id":"SNS-0362",
+    "timestamp":"2026-02-07 22:00:00+00:00",
+    "failure_type":"EXCESSIVE_VIBRATION",
+    "severity":"HIGH",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0013",
+    "machine_id":"MCH-087",
+    "sensor_id":"SNS-0433",
+    "timestamp":"2026-03-19 23:00:00+00:00",
+    "failure_type":"PRESSURE_ANOMALY",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0014",
+    "machine_id":"MCH-091",
+    "sensor_id":"SNS-0454",
+    "timestamp":"2026-01-21 14:00:00+00:00",
+    "failure_type":"ELECTRICAL_OVERLOAD",
+    "severity":"MEDIUM",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0015",
+    "machine_id":"MCH-010",
+    "sensor_id":"SNS-0050",
+    "timestamp":"2026-01-26 01:00:00+00:00",
+    "failure_type":"SPEED_DEGRADATION",
+    "severity":"HIGH",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0016",
+    "machine_id":"MCH-040",
+    "sensor_id":"SNS-0196",
+    "timestamp":"2026-03-02 08:00:00+00:00",
+    "failure_type":"OVERHEATING",
+    "severity":"MEDIUM",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0017",
+    "machine_id":"MCH-063",
+    "sensor_id":"SNS-0312",
+    "timestamp":"2026-01-11 17:00:00+00:00",
+    "failure_type":"EXCESSIVE_VIBRATION",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0018",
+    "machine_id":"MCH-056",
+    "sensor_id":"SNS-0278",
+    "timestamp":"2026-01-27 07:00:00+00:00",
+    "failure_type":"PRESSURE_ANOMALY",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0019",
+    "machine_id":"MCH-098",
+    "sensor_id":"SNS-0489",
+    "timestamp":"2026-03-21 01:00:00+00:00",
+    "failure_type":"ELECTRICAL_OVERLOAD",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0020",
+    "machine_id":"MCH-034",
+    "sensor_id":"SNS-0170",
+    "timestamp":"2026-01-20 11:00:00+00:00",
+    "failure_type":"SPEED_DEGRADATION",
+    "severity":"HIGH",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0021",
+    "machine_id":"MCH-044",
+    "sensor_id":"SNS-0216",
+    "timestamp":"2026-02-09 05:00:00+00:00",
+    "failure_type":"OVERHEATING",
+    "severity":"HIGH",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0022",
+    "machine_id":"MCH-048",
+    "sensor_id":"SNS-0237",
+    "timestamp":"2026-03-30 15:00:00+00:00",
+    "failure_type":"EXCESSIVE_VIBRATION",
+    "severity":"MEDIUM",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0023",
+    "machine_id":"MCH-020",
+    "sensor_id":"SNS-0098",
+    "timestamp":"2026-01-18 04:00:00+00:00",
+    "failure_type":"PRESSURE_ANOMALY",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0024",
+    "machine_id":"MCH-094",
+    "sensor_id":"SNS-0469",
+    "timestamp":"2026-03-17 12:00:00+00:00",
+    "failure_type":"ELECTRICAL_OVERLOAD",
+    "severity":"HIGH",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0025",
+    "machine_id":"MCH-045",
+    "sensor_id":"SNS-0225",
+    "timestamp":"2026-03-14 01:00:00+00:00",
+    "failure_type":"SPEED_DEGRADATION",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0026",
+    "machine_id":"MCH-084",
+    "sensor_id":"SNS-0416",
+    "timestamp":"2026-03-15 17:00:00+00:00",
+    "failure_type":"OVERHEATING",
+    "severity":"MEDIUM",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0027",
+    "machine_id":"MCH-046",
+    "sensor_id":"SNS-0227",
+    "timestamp":"2026-01-09 19:00:00+00:00",
+    "failure_type":"EXCESSIVE_VIBRATION",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0028",
+    "machine_id":"MCH-005",
+    "sensor_id":"SNS-0023",
+    "timestamp":"2026-03-08 20:00:00+00:00",
+    "failure_type":"PRESSURE_ANOMALY",
+    "severity":"HIGH",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0029",
+    "machine_id":"MCH-008",
+    "sensor_id":"SNS-0039",
+    "timestamp":"2026-02-06 11:00:00+00:00",
+    "failure_type":"ELECTRICAL_OVERLOAD",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0030",
+    "machine_id":"MCH-077",
+    "sensor_id":"SNS-0385",
+    "timestamp":"2026-01-14 07:00:00+00:00",
+    "failure_type":"SPEED_DEGRADATION",
+    "severity":"MEDIUM",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0031",
+    "machine_id":"MCH-001",
+    "sensor_id":"SNS-0001",
+    "timestamp":"2026-01-18 08:00:00+00:00",
+    "failure_type":"OVERHEATING",
+    "severity":"MEDIUM",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0032",
+    "machine_id":"MCH-038",
+    "sensor_id":"SNS-0187",
+    "timestamp":"2026-03-29 03:00:00+00:00",
+    "failure_type":"EXCESSIVE_VIBRATION",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0033",
+    "machine_id":"MCH-013",
+    "sensor_id":"SNS-0063",
+    "timestamp":"2026-01-02 23:00:00+00:00",
+    "failure_type":"PRESSURE_ANOMALY",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0034",
+    "machine_id":"MCH-022",
+    "sensor_id":"SNS-0109",
+    "timestamp":"2026-01-14 19:00:00+00:00",
+    "failure_type":"ELECTRICAL_OVERLOAD",
+    "severity":"MEDIUM",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0035",
+    "machine_id":"MCH-036",
+    "sensor_id":"SNS-0180",
+    "timestamp":"2026-02-08 12:00:00+00:00",
+    "failure_type":"SPEED_DEGRADATION",
+    "severity":"HIGH",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0036",
+    "machine_id":"MCH-059",
+    "sensor_id":"SNS-0291",
+    "timestamp":"2026-03-26 00:00:00+00:00",
+    "failure_type":"OVERHEATING",
+    "severity":"MEDIUM",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0037",
+    "machine_id":"MCH-057",
+    "sensor_id":"SNS-0282",
+    "timestamp":"2026-01-14 16:00:00+00:00",
+    "failure_type":"EXCESSIVE_VIBRATION",
+    "severity":"HIGH",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0038",
+    "machine_id":"MCH-062",
+    "sensor_id":"SNS-0308",
+    "timestamp":"2026-01-12 04:00:00+00:00",
+    "failure_type":"PRESSURE_ANOMALY",
+    "severity":"MEDIUM",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0039",
+    "machine_id":"MCH-004",
+    "sensor_id":"SNS-0019",
+    "timestamp":"2026-01-09 01:00:00+00:00",
+    "failure_type":"ELECTRICAL_OVERLOAD",
+    "severity":"HIGH",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0040",
+    "machine_id":"MCH-078",
+    "sensor_id":"SNS-0390",
+    "timestamp":"2026-03-07 15:00:00+00:00",
+    "failure_type":"SPEED_DEGRADATION",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0041",
+    "machine_id":"MCH-007",
+    "sensor_id":"SNS-0031",
+    "timestamp":"2026-03-24 23:00:00+00:00",
+    "failure_type":"OVERHEATING",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0042",
+    "machine_id":"MCH-052",
+    "sensor_id":"SNS-0257",
+    "timestamp":"2026-02-11 14:00:00+00:00",
+    "failure_type":"EXCESSIVE_VIBRATION",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0043",
+    "machine_id":"MCH-049",
+    "sensor_id":"SNS-0243",
+    "timestamp":"2026-01-29 13:00:00+00:00",
+    "failure_type":"PRESSURE_ANOMALY",
+    "severity":"MEDIUM",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0044",
+    "machine_id":"MCH-037",
+    "sensor_id":"SNS-0184",
+    "timestamp":"2026-03-31 03:00:00+00:00",
+    "failure_type":"ELECTRICAL_OVERLOAD",
+    "severity":"HIGH",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0045",
+    "machine_id":"MCH-088",
+    "sensor_id":"SNS-0440",
+    "timestamp":"2026-03-31 05:00:00+00:00",
+    "failure_type":"SPEED_DEGRADATION",
+    "severity":"HIGH",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0046",
+    "machine_id":"MCH-025",
+    "sensor_id":"SNS-0121",
+    "timestamp":"2026-03-06 02:00:00+00:00",
+    "failure_type":"OVERHEATING",
+    "severity":"HIGH",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0047",
+    "machine_id":"MCH-014",
+    "sensor_id":"SNS-0067",
+    "timestamp":"2026-01-09 05:00:00+00:00",
+    "failure_type":"EXCESSIVE_VIBRATION",
+    "severity":"MEDIUM",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0048",
+    "machine_id":"MCH-064",
+    "sensor_id":"SNS-0318",
+    "timestamp":"2026-03-22 21:00:00+00:00",
+    "failure_type":"PRESSURE_ANOMALY",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0049",
+    "machine_id":"MCH-024",
+    "sensor_id":"SNS-0119",
+    "timestamp":"2026-01-22 11:00:00+00:00",
+    "failure_type":"ELECTRICAL_OVERLOAD",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0050",
+    "machine_id":"MCH-066",
+    "sensor_id":"SNS-0330",
+    "timestamp":"2026-02-20 22:00:00+00:00",
+    "failure_type":"SPEED_DEGRADATION",
+    "severity":"HIGH",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0051",
+    "machine_id":"MCH-071",
+    "sensor_id":"SNS-0351",
+    "timestamp":"2026-01-10 14:00:00+00:00",
+    "failure_type":"OVERHEATING",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0052",
+    "machine_id":"MCH-031",
+    "sensor_id":"SNS-0152",
+    "timestamp":"2026-03-29 03:00:00+00:00",
+    "failure_type":"EXCESSIVE_VIBRATION",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0053",
+    "machine_id":"MCH-033",
+    "sensor_id":"SNS-0163",
+    "timestamp":"2026-03-08 22:00:00+00:00",
+    "failure_type":"PRESSURE_ANOMALY",
+    "severity":"HIGH",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0054",
+    "machine_id":"MCH-093",
+    "sensor_id":"SNS-0464",
+    "timestamp":"2026-02-18 22:00:00+00:00",
+    "failure_type":"ELECTRICAL_OVERLOAD",
+    "severity":"MEDIUM",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0055",
+    "machine_id":"MCH-047",
+    "sensor_id":"SNS-0235",
+    "timestamp":"2026-01-05 09:00:00+00:00",
+    "failure_type":"SPEED_DEGRADATION",
+    "severity":"MEDIUM",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0056",
+    "machine_id":"MCH-081",
+    "sensor_id":"SNS-0401",
+    "timestamp":"2026-02-28 22:00:00+00:00",
+    "failure_type":"OVERHEATING",
+    "severity":"HIGH",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0057",
+    "machine_id":"MCH-042",
+    "sensor_id":"SNS-0207",
+    "timestamp":"2026-02-05 07:00:00+00:00",
+    "failure_type":"EXCESSIVE_VIBRATION",
+    "severity":"HIGH",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0058",
+    "machine_id":"MCH-027",
+    "sensor_id":"SNS-0133",
+    "timestamp":"2026-02-24 23:00:00+00:00",
+    "failure_type":"PRESSURE_ANOMALY",
+    "severity":"HIGH",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0059",
+    "machine_id":"MCH-092",
+    "sensor_id":"SNS-0459",
+    "timestamp":"2026-03-30 07:00:00+00:00",
+    "failure_type":"ELECTRICAL_OVERLOAD",
+    "severity":"HIGH",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0060",
+    "machine_id":"MCH-053",
+    "sensor_id":"SNS-0265",
+    "timestamp":"2026-03-25 18:00:00+00:00",
+    "failure_type":"SPEED_DEGRADATION",
+    "severity":"MEDIUM",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0061",
+    "machine_id":"MCH-026",
+    "sensor_id":"SNS-0126",
+    "timestamp":"2026-02-14 23:00:00+00:00",
+    "failure_type":"OVERHEATING",
+    "severity":"MEDIUM",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0062",
+    "machine_id":"MCH-096",
+    "sensor_id":"SNS-0477",
+    "timestamp":"2026-03-30 19:00:00+00:00",
+    "failure_type":"EXCESSIVE_VIBRATION",
+    "severity":"MEDIUM",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0063",
+    "machine_id":"MCH-065",
+    "sensor_id":"SNS-0323",
+    "timestamp":"2026-03-03 15:00:00+00:00",
+    "failure_type":"PRESSURE_ANOMALY",
+    "severity":"HIGH",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0064",
+    "machine_id":"MCH-009",
+    "sensor_id":"SNS-0044",
+    "timestamp":"2026-03-04 00:00:00+00:00",
+    "failure_type":"ELECTRICAL_OVERLOAD",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0065",
+    "machine_id":"MCH-032",
+    "sensor_id":"SNS-0160",
+    "timestamp":"2026-01-27 18:00:00+00:00",
+    "failure_type":"SPEED_DEGRADATION",
+    "severity":"HIGH",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0066",
+    "machine_id":"MCH-067",
+    "sensor_id":"SNS-0331",
+    "timestamp":"2026-01-27 21:00:00+00:00",
+    "failure_type":"OVERHEATING",
+    "severity":"MEDIUM",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0067",
+    "machine_id":"MCH-090",
+    "sensor_id":"SNS-0447",
+    "timestamp":"2026-03-30 22:00:00+00:00",
+    "failure_type":"EXCESSIVE_VIBRATION",
+    "severity":"MEDIUM",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0068",
+    "machine_id":"MCH-041",
+    "sensor_id":"SNS-0203",
+    "timestamp":"2026-03-20 00:00:00+00:00",
+    "failure_type":"PRESSURE_ANOMALY",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0069",
+    "machine_id":"MCH-019",
+    "sensor_id":"SNS-0094",
+    "timestamp":"2026-01-03 10:00:00+00:00",
+    "failure_type":"ELECTRICAL_OVERLOAD",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0070",
+    "machine_id":"MCH-089",
+    "sensor_id":"SNS-0445",
+    "timestamp":"2026-03-21 11:00:00+00:00",
+    "failure_type":"SPEED_DEGRADATION",
+    "severity":"HIGH",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0071",
+    "machine_id":"MCH-068",
+    "sensor_id":"SNS-0336",
+    "timestamp":"2026-02-16 13:00:00+00:00",
+    "failure_type":"OVERHEATING",
+    "severity":"HIGH",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0072",
+    "machine_id":"MCH-074",
+    "sensor_id":"SNS-0367",
+    "timestamp":"2026-03-30 05:00:00+00:00",
+    "failure_type":"EXCESSIVE_VIBRATION",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0073",
+    "machine_id":"MCH-051",
+    "sensor_id":"SNS-0253",
+    "timestamp":"2026-01-23 00:00:00+00:00",
+    "failure_type":"PRESSURE_ANOMALY",
+    "severity":"HIGH",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0074",
+    "machine_id":"MCH-029",
+    "sensor_id":"SNS-0144",
+    "timestamp":"2026-03-26 05:00:00+00:00",
+    "failure_type":"ELECTRICAL_OVERLOAD",
+    "severity":"MEDIUM",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0075",
+    "machine_id":"MCH-015",
+    "sensor_id":"SNS-0075",
+    "timestamp":"2026-01-27 05:00:00+00:00",
+    "failure_type":"SPEED_DEGRADATION",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0076",
+    "machine_id":"MCH-070",
+    "sensor_id":"SNS-0346",
+    "timestamp":"2026-03-25 03:00:00+00:00",
+    "failure_type":"OVERHEATING",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0077",
+    "machine_id":"MCH-012",
+    "sensor_id":"SNS-0057",
+    "timestamp":"2026-01-05 00:00:00+00:00",
+    "failure_type":"EXCESSIVE_VIBRATION",
+    "severity":"HIGH",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0078",
+    "machine_id":"MCH-039",
+    "sensor_id":"SNS-0193",
+    "timestamp":"2026-03-16 15:00:00+00:00",
+    "failure_type":"PRESSURE_ANOMALY",
+    "severity":"HIGH",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0079",
+    "machine_id":"MCH-072",
+    "sensor_id":"SNS-0359",
+    "timestamp":"2026-03-06 09:00:00+00:00",
+    "failure_type":"ELECTRICAL_OVERLOAD",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0080",
+    "machine_id":"MCH-018",
+    "sensor_id":"SNS-0090",
+    "timestamp":"2026-02-02 12:00:00+00:00",
+    "failure_type":"SPEED_DEGRADATION",
+    "severity":"MEDIUM",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0081",
+    "machine_id":"MCH-017",
+    "sensor_id":"SNS-0081",
+    "timestamp":"2026-02-28 11:00:00+00:00",
+    "failure_type":"OVERHEATING",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0082",
+    "machine_id":"MCH-100",
+    "sensor_id":"SNS-0497",
+    "timestamp":"2026-02-24 10:00:00+00:00",
+    "failure_type":"EXCESSIVE_VIBRATION",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0083",
+    "machine_id":"MCH-016",
+    "sensor_id":"SNS-0078",
+    "timestamp":"2026-02-04 08:00:00+00:00",
+    "failure_type":"PRESSURE_ANOMALY",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0084",
+    "machine_id":"MCH-011",
+    "sensor_id":"SNS-0054",
+    "timestamp":"2026-02-17 01:00:00+00:00",
+    "failure_type":"ELECTRICAL_OVERLOAD",
+    "severity":"HIGH",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0085",
+    "machine_id":"MCH-021",
+    "sensor_id":"SNS-0105",
+    "timestamp":"2026-03-04 05:00:00+00:00",
+    "failure_type":"SPEED_DEGRADATION",
+    "severity":"MEDIUM",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0086",
+    "machine_id":"MCH-023",
+    "sensor_id":"SNS-0111",
+    "timestamp":"2026-03-21 13:00:00+00:00",
+    "failure_type":"OVERHEATING",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0087",
+    "machine_id":"MCH-075",
+    "sensor_id":"SNS-0372",
+    "timestamp":"2026-01-05 16:00:00+00:00",
+    "failure_type":"EXCESSIVE_VIBRATION",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0088",
+    "machine_id":"MCH-055",
+    "sensor_id":"SNS-0273",
+    "timestamp":"2026-02-08 11:00:00+00:00",
+    "failure_type":"PRESSURE_ANOMALY",
+    "severity":"MEDIUM",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0089",
+    "machine_id":"MCH-082",
+    "sensor_id":"SNS-0409",
+    "timestamp":"2026-02-05 10:00:00+00:00",
+    "failure_type":"ELECTRICAL_OVERLOAD",
+    "severity":"MEDIUM",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0090",
+    "machine_id":"MCH-050",
+    "sensor_id":"SNS-0250",
+    "timestamp":"2026-01-12 23:00:00+00:00",
+    "failure_type":"SPEED_DEGRADATION",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0091",
+    "machine_id":"MCH-028",
+    "sensor_id":"SNS-0136",
+    "timestamp":"2026-02-05 19:00:00+00:00",
+    "failure_type":"OVERHEATING",
+    "severity":"MEDIUM",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0092",
+    "machine_id":"MCH-085",
+    "sensor_id":"SNS-0422",
+    "timestamp":"2026-02-11 12:00:00+00:00",
+    "failure_type":"EXCESSIVE_VIBRATION",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0093",
+    "machine_id":"MCH-079",
+    "sensor_id":"SNS-0393",
+    "timestamp":"2026-03-11 17:00:00+00:00",
+    "failure_type":"PRESSURE_ANOMALY",
+    "severity":"MEDIUM",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0094",
+    "machine_id":"MCH-003",
+    "sensor_id":"SNS-0014",
+    "timestamp":"2026-03-06 02:00:00+00:00",
+    "failure_type":"ELECTRICAL_OVERLOAD",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0095",
+    "machine_id":"MCH-002",
+    "sensor_id":"SNS-0010",
+    "timestamp":"2026-03-09 14:00:00+00:00",
+    "failure_type":"SPEED_DEGRADATION",
+    "severity":"MEDIUM",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0096",
+    "machine_id":"MCH-099",
+    "sensor_id":"SNS-0491",
+    "timestamp":"2026-02-23 03:00:00+00:00",
+    "failure_type":"OVERHEATING",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0097",
+    "machine_id":"MCH-035",
+    "sensor_id":"SNS-0172",
+    "timestamp":"2026-01-10 14:00:00+00:00",
+    "failure_type":"EXCESSIVE_VIBRATION",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0098",
+    "machine_id":"MCH-060",
+    "sensor_id":"SNS-0298",
+    "timestamp":"2026-03-20 10:00:00+00:00",
+    "failure_type":"PRESSURE_ANOMALY",
+    "severity":"HIGH",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0099",
+    "machine_id":"MCH-086",
+    "sensor_id":"SNS-0429",
+    "timestamp":"2026-02-09 01:00:00+00:00",
+    "failure_type":"ELECTRICAL_OVERLOAD",
+    "severity":"MEDIUM",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  },
+  {
+    "failure_event_id":"FAIL-0100",
+    "machine_id":"MCH-061",
+    "sensor_id":"SNS-0305",
+    "timestamp":"2026-01-23 12:00:00+00:00",
+    "failure_type":"SPEED_DEGRADATION",
+    "severity":"LOW",
+    "label":1,
+    "ground_truth_source":"SYNTHETIC"
+  }
+]

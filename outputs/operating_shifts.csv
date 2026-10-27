@@ -1,0 +1,4 @@
+shift_id,shift_name,start_hour,end_hour
+SHIFT-001,DAY,6,14
+SHIFT-002,EVENING,14,22
+SHIFT-003,NIGHT,22,6

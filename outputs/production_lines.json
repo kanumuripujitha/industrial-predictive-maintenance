@@ -1,0 +1,62 @@
+[
+  {
+    "line_id":"LINE-001",
+    "plant_id":"PLT-001",
+    "line_name":"Production Line 1"
+  },
+  {
+    "line_id":"LINE-002",
+    "plant_id":"PLT-002",
+    "line_name":"Production Line 2"
+  },
+  {
+    "line_id":"LINE-003",
+    "plant_id":"PLT-003",
+    "line_name":"Production Line 3"
+  },
+  {
+    "line_id":"LINE-004",
+    "plant_id":"PLT-001",
+    "line_name":"Production Line 4"
+  },
+  {
+    "line_id":"LINE-005",
+    "plant_id":"PLT-002",
+    "line_name":"Production Line 5"
+  },
+  {
+    "line_id":"LINE-006",
+    "plant_id":"PLT-003",
+    "line_name":"Production Line 6"
+  },
+  {
+    "line_id":"LINE-007",
+    "plant_id":"PLT-001",
+    "line_name":"Production Line 7"
+  },
+  {
+    "line_id":"LINE-008",
+    "plant_id":"PLT-002",
+    "line_name":"Production Line 8"
+  },
+  {
+    "line_id":"LINE-009",
+    "plant_id":"PLT-003",
+    "line_name":"Production Line 9"
+  },
+  {
+    "line_id":"LINE-010",
+    "plant_id":"PLT-001",
+    "line_name":"Production Line 10"
+  },
+  {
+    "line_id":"LINE-011",
+    "plant_id":"PLT-002",
+    "line_name":"Production Line 11"
+  },
+  {
+    "line_id":"LINE-012",
+    "plant_id":"PLT-003",
+    "line_name":"Production Line 12"
+  }
+]

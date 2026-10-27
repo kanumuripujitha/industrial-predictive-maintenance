@@ -1,0 +1,77 @@
+[
+  {
+    "technician_id":"TECH-001",
+    "technician_name":"Technician 1",
+    "specialization":"MECHANICAL"
+  },
+  {
+    "technician_id":"TECH-002",
+    "technician_name":"Technician 2",
+    "specialization":"ELECTRICAL"
+  },
+  {
+    "technician_id":"TECH-003",
+    "technician_name":"Technician 3",
+    "specialization":"INSTRUMENTATION"
+  },
+  {
+    "technician_id":"TECH-004",
+    "technician_name":"Technician 4",
+    "specialization":"MECHANICAL"
+  },
+  {
+    "technician_id":"TECH-005",
+    "technician_name":"Technician 5",
+    "specialization":"ELECTRICAL"
+  },
+  {
+    "technician_id":"TECH-006",
+    "technician_name":"Technician 6",
+    "specialization":"INSTRUMENTATION"
+  },
+  {
+    "technician_id":"TECH-007",
+    "technician_name":"Technician 7",
+    "specialization":"MECHANICAL"
+  },
+  {
+    "technician_id":"TECH-008",
+    "technician_name":"Technician 8",
+    "specialization":"ELECTRICAL"
+  },
+  {
+    "technician_id":"TECH-009",
+    "technician_name":"Technician 9",
+    "specialization":"INSTRUMENTATION"
+  },
+  {
+    "technician_id":"TECH-010",
+    "technician_name":"Technician 10",
+    "specialization":"MECHANICAL"
+  },
+  {
+    "technician_id":"TECH-011",
+    "technician_name":"Technician 11",
+    "specialization":"ELECTRICAL"
+  },
+  {
+    "technician_id":"TECH-012",
+    "technician_name":"Technician 12",
+    "specialization":"INSTRUMENTATION"
+  },
+  {
+    "technician_id":"TECH-013",
+    "technician_name":"Technician 13",
+    "specialization":"MECHANICAL"
+  },
+  {
+    "technician_id":"TECH-014",
+    "technician_name":"Technician 14",
+    "specialization":"ELECTRICAL"
+  },
+  {
+    "technician_id":"TECH-015",
+    "technician_name":"Technician 15",
+    "specialization":"INSTRUMENTATION"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "part_id":"PART-001",
+    "part_name":"Bearing",
+    "unit_cost":347.88
+  },
+  {
+    "part_id":"PART-002",
+    "part_name":"Motor Belt",
+    "unit_cost":300.16
+  },
+  {
+    "part_id":"PART-003",
+    "part_name":"Pressure Valve",
+    "unit_cost":430.59
+  },
+  {
+    "part_id":"PART-004",
+    "part_name":"Cooling Fan",
+    "unit_cost":48.04
+  },
+  {
+    "part_id":"PART-005",
+    "part_name":"Vibration Mount",
+    "unit_cost":416.21
+  },
+  {
+    "part_id":"PART-006",
+    "part_name":"Bearing",
+    "unit_cost":134.46
+  },
+  {
+    "part_id":"PART-007",
+    "part_name":"Motor Belt",
+    "unit_cost":26.39
+  },
+  {
+    "part_id":"PART-008",
+    "part_name":"Pressure Valve",
+    "unit_cost":417.11
+  },
+  {
+    "part_id":"PART-009",
+    "part_name":"Cooling Fan",
+    "unit_cost":87.54
+  },
+  {
+    "part_id":"PART-010",
+    "part_name":"Vibration Mount",
+    "unit_cost":119.45
+  },
+  {
+    "part_id":"PART-011",
+    "part_name":"Bearing",
+    "unit_cost":171.55
+  },
+  {
+    "part_id":"PART-012",
+    "part_name":"Motor Belt",
+    "unit_cost":358.47
+  },
+  {
+    "part_id":"PART-013",
+    "part_name":"Pressure Valve",
+    "unit_cost":337.39
+  },
+  {
+    "part_id":"PART-014",
+    "part_name":"Cooling Fan",
+    "unit_cost":75.63
+  },
+  {
+    "part_id":"PART-015",
+    "part_name":"Vibration Mount",
+    "unit_cost":116.88
+  },
+  {
+    "part_id":"PART-016",
+    "part_name":"Bearing",
+    "unit_cost":96.39
+  },
+  {
+    "part_id":"PART-017",
+    "part_name":"Motor Belt",
+    "unit_cost":80.01
+  },
+  {
+    "part_id":"PART-018",
+    "part_name":"Pressure Valve",
+    "unit_cost":305.36
+  },
+  {
+    "part_id":"PART-019",
+    "part_name":"Cooling Fan",
+    "unit_cost":27.42
+  },
+  {
+    "part_id":"PART-020",
+    "part_name":"Vibration Mount",
+    "unit_cost":79.59
+  }
+]

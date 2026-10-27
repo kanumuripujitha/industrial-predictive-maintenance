@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# Environment files
+.env
+
+# Temporary backups
+outputs/*backup*
+
+# Large generated files
+outputs/telemetry_events.json
+outputs/seed_data.sql
+outputs/telemetry_events.csv
+src/generate_data_backup.txt
